@@ -1,16 +1,17 @@
-# flutterfire
 
-A new Flutter project.
+# Nama: Aria Anggit Purnawan
+# NPM: 5220411206
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+### Login Page
+![Login Page](https://github.com/ariaanggit/flutter_firebase/blob/master/login.png?raw=true)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Register Page
+![Register Page](https://github.com/ariaanggit/flutter_firebase/blob/master/register.png?raw=true)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Home Page
+![Home Page](https://github.com/ariaanggit/flutter_firebase/blob/master/homepage.png?raw=true)
+
+### Firebase Auth
+![Firebase Auth](https://github.com/ariaanggit/flutter_firebase/blob/master/Screenshot.png?raw=true)
